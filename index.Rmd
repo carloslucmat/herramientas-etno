@@ -1,9 +1,187 @@
 --- 
-title: "Herramientas no etnográficas"
+title: "Herramientas no etnográficas para hacer etnografía"
 author: "Carlos Lucas Mateo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
+# Introducción
 
-# Down the rabbit-hole
+Introducción al capítulo y pequeña justificación
+
+Cada sección (1, 2, 3, 4) puede leerse de forma independiente,
+
+Fuentes informales: Twitter, blogs personales, foros de discusión, hilos
+de Reddit, grupos de Discord. A lo largo del texto hay referencias a
+páginas, recursos y demás.
+
+Similares a este trabajo, pero no antropológicos.[^1]
+
+Disclaimers
+
+
+# Revisión de literatura
+
+La búsqueda de literatura es básica y de gran importancia. Cualquier
+investigación inicia y se fundamenta ahí, incluso esperando que después
+forme parte de ese cúmulo de literatura que luego alguien más revisará.
+Sin embargo, la producción académica puede ser abrumadora. Cada año hay
+más académicos, más investigaciones, más revistas, más libros y más
+artículos. Por eso se hace necesario utilizar herramientas que nos
+ayuden a navegar en esa inmensidad de información. En este apartado
+quisiera compartirles algunas de ellas.
+
+Primero tenemos que saber qué vamos a investigar. Puede sonar muy obvio,
+pero buscar literatura sobre generalidades nos llevará a lugares
+abiertos que difícilmente podremos manejar. Por lo menos debemos tener
+claro alguna temática de interés, alguna problemática o por lo menos un
+espacio delimitado. Por ejemplo, podemos pasar de "antropología
+económica" a "economías informales en la Ciudad de México". Aunque
+todavía puede ser general, nuestros esfuerzos están más enfocados en un
+área más delimitada en la cual nos podemos mover sin perdernos; podemos
+salir, regresar y todavía tener una guía para avanzar. No es necesaria
+tanta severidad al comienzo. Nuestras investigaciones y temas de interés
+se irán clarificando y especificando conforme avance nuestro propio
+conocimiento sobre el tema y para ello es necesario leer.
+
+## Bases de datos académicas
+
+Aunque podemos ir a alguna biblioteca en busca de algún texto clásico
+sobre el tema[^2], aquí me quiero enfocar en *cómo buscar literatura
+contemporánea en bases de datos académicas*. Lo reitero: la producción
+académica es abrumadora. Muchas revistas, muchos artículos, muchas
+investigaciones. Gran parte de lo que queramos investigar seguramente lo
+encontraremos ya trabajado en diversos documentos. Para eso están las
+bases de datos. En ellas podemos sumergirnos en todo tipo de recursos e
+investigaciones[^3]. Particularmente sobre literatura, encontramos
+*bibliotecas digitales*. Son de uso frecuenta
+[SciELO](https://scielo.org/), [Redalyc](https://www.redalyc.org/) o
+[Dialnet](https://dialnet.unirioja.es/), que son de acceso libre y en
+español. Son muy útiles. Sin embargo, las mayores bases de datos
+científicas son otras de accesibilidad un poco más complicada. Por
+ejemplo, [Web of Science](https://apps.webofknowledge.com/) de Clarivate
+Analytics con casi 2 mil millones de referencias de todo el mundo.
+Tenemos también
+[Scopus](https://www.scopus.com),
+[EBSCO](https://www.ebsco.com/), [Core](https://core.ac.uk/), [Semantic
+Scholar](https://www.semanticscholar.org/) y demás. También son
+importantes las propias de [JSTOR](https://www.jstor.org/),
+[Elsevier](https://www.elsevier.com/) o
+[Springer](https://www.springer.com/). Algunas de estas bibliotecas no
+son de acceso libre, pero con una cuenta universitaria podrás
+explorarlas.
+
+Hacer una buena búsqueda en [Web of
+Science](https://apps.webofknowledge.com/), [Core](https://core.ac.uk/),
+[Google Scholar](https://scholar.google.com/) o
+[SciELO](https://scielo.org/) puede ser de gran ayuda para agilizar tu
+investigación. *Búsquedas especializadas en bases de datos
+especializadas es una gran combinación*. En las bibliotecas digitales
+académicas encontrarás información difícil de ubicar por otros medios.
+Al mismo tiempo puedes ver métricas académicas (que comento [más
+adelante](#cienciometría)) como su impacto académico o cuántas veces han
+sido citados sus trabajos, también podrás ver artículos relacionados,
+leer sus resúmenes y ver las referencias que usan. Después de hacer
+búsquedas podrás almacenar los artículos que encuentres en tu [gestor de
+referencias](#gestores-de-referencias), leerlos, escribir sobre ellos y
+seguir el ciclo.
+
+Es importante decir que entre más específica sea tu búsqueda, más cómoda
+serán las actividades posteriores de leer y escribir. Yo concentraría
+mis búsquedas en artículos. La mayor parte de la investigación académica
+está publicada en artículos académicos. Después de leer varios de ellos,
+tendrás una idea amplia del terreno en el que se mueven tus intereses.
+Lee un puñado, subráyalos y escribe al respecto. Habiendo hecho esto ya
+tienes trabajo académico avanzado, ya estás introducido en tu tema y
+tienes un panorama general de tu área de interés. Recuerda hacer memos y
+reseñas de tu revisión de literatura, [más
+adelante](#notas-reseñas-y-memos) hay algunas recomendaciones al
+respecto.
+
+## Cienciometría
+
+
+La producción académica tiene distintas formas de verificarse. Revisión
+por pares o el otorgamiento de recursos, reconocimientos y premios.
+Existen además *mediciones cuantitativas* que ayudan a darnos una idea
+de la calidad de los trabajos que encontramos y leemos. Considerar estas
+mediciones pueden ser de ayuda a la hora de buscar literatura e
+investigaciones. No son perfectas, pero por lo menos es bueno tenerlas
+en consideración. Algunas mediciones bibliométricas importantes son el
+número de citaciones que recibe un trabajo, el CiteScore, el H-index, el
+factor de impacto académico o el percentil en el que se encuentra un
+artículo o una autora.[^4] [^5] Tener en cuenta estas métricas pueden
+ayudarte para analizar el paisaje académico en el que te estas moviendo:
+quiénes son las y los autores más citados, qué trabajos son los más
+novedosos y populares, qué temas se están tratando y qué avances se
+están teniendo. Para eso hay que saber qué indica cada medida y qué nos
+dice del trabajo que estamos revisando.
+
+Con las medidas bibliométricas se abren posibilidades para realizar
+mejores búsquedas de literatura, incluso para investigarlas y
+analizarlas. El *mapeo científico* es uno de los métodos que se utilizan
+para estos fines. Estas herramientas pueden requerir algunas habilidades
+extras (a las que no pretendo entrar).[^6] Aunque no son herramientas
+que consideraría esenciales, creo que por lo menos es importante saber
+que existen, que puedes aprenderlas y utilizarlas. Algunos proyectos
+amigables que pueden servirte son [Connected
+Papers](https://www.connectedpapers.com) o [Citations
+Gecko](https://citationgecko.azurewebsites.net). Ambos despliegan
+información bibliométrica de artículos científicos en un grafo visual.
+Por medio de estas herramientas puedes ver las relaciones entre trabajos
+y autores, número de citaciones y demás mediciones de forma gráfica sin
+necesidad de habilidades especializadas.
+
+## Lectura rápida y lectura profunda
+
+
+Es evidente que no podemos leer todo lo que nos gustaría. Para esto
+existen algunas formas para agilizar el proceso de revisión de
+literatura que pueden complementar lo ya visto en los anteriores
+apartados. La lectura rápida es un consejo muy popular, pero en
+específico el método AIC (Resumen-Introducción-Conclusión en inglés)
+puede ser de gran ayuda (Pacheco-Vega, 2017b). Busca en las bases de
+datos artículos de tu tema y selecciona un puñado de ellos. Lee el
+resumen; de qué va, cuál es el argumento que intenta demostrar, cómo lo
+hará. Después lee la introducción; cómo posiciona su artículo, qué
+métodos se usan, a qué colegas cita. Por último las conclusiones;
+observa si logró sus objetivos, qué recupera como importante, cómo lo
+sintetiza. Haz algunas anotaciones rápidas y subraya si es necesario.
+Esto no sustituye de ninguna forma la lectura en profundidad, pero
+tendremos una idea amplia de lo que abordan los artículos, descartaremos
+algunos textos y más adelante regresaremos a otros con más detenimiento.
+*Piensa esto como un filtro, no como un acelerador.* Una vez conociendo
+los artículos de forma superficial puedes ordenarlos según tu grado de
+interés o pertinencia para tu trabajo y proceder a leerlos con
+detenimiento y profundidad. La lectura en profundidad implica
+necesariamente más tiempo, más dedicación y más trabajo, pero por lo
+menos ya tendrás ideas iniciales antes de profundizar en él. La lectura
+profunda implica no sólo leer, sino también anotar, subrayar, escribir
+[memos y reseñas](#reseñas-y-memos).
+
+## Gestores de referencias
+
+
+El mejor amigo para la revisión de literatura es un gestor de
+referencias bibliográficas en tu computadora.[^7] Con él almacenas,
+organizas, manejas tus citas y mucho más.[^8] Los gestores de
+referencias son una herramienta esencial para a tu proceso de trabajo.
+Es una biblioteca académica personal, te ayuda a mantener en orden tus
+lecturas, puedes hacer anotaciones en ellas, puedes modificar los
+metadatos de tus documentos, asignar etiquetas a ellos y mucho más.
+Además, te facilita de sobremanera el engorroso proceso de citado y
+referenciación. Una actividad tan tediosa y tardada puede ser casi
+automatizada por medio de un gestor.
+
+Primero, algunas configuraciones para empezar. Una vez instalado es
+importante preparar la extensión de navegador y el complemento para Word
+(o el editor de texto que uses). Con la extensión guardarás los
+materiales que encuentres en internet. Las referencias se vinculan a tu
+colección de biblioteca y después, con el complemento para tu editor de
+texto, puedes citar directamente desde tu documento. Buscas literatura,
+la guardas, lees, escribes y citas. El flujo de trabajo se agiliza con
+tu gestor. Los gestores son grandes herramientas y sus capacidades
+pueden integrarse a tus necesidades. Conoce el entorno que manejas, ve
+sus potencialidades escondidas, lee su documentación y úsalo, en verdad
+es una herramienta indispensable para el trabajo académico.
+
 

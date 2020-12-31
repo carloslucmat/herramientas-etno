@@ -1,1 +1,149 @@
 # A caucus-race and a long tale
+
+
+[^1]: Aunque con tratamientos distintos a este trabajo, puedes encontrar
+    textos con objetivos parecidos como *Essential academic skills*
+    (Turner et. al., 2011) o el pequeño manual de Zachary Shore (2016).
+
+[^2]: La forma más fácil de llenarte de bibliografía es haciendo una
+    especie de bola de nieve de referencias. "Este artículo cita a estos
+    autores, estos autores citan a estos otros." Aunque no hay nada de
+    malo en ello, al final tu bibliografía puede llenarse de libros y
+    artículos que no se vinculan directamente con tus intereses y de
+    textos que simplemente nunca leerás.
+
+[^3]: Existen muchos tipos de bases de datos. Hay repositorios de datos
+    cualitativos para la investigación abierta, material etnográfico
+    primario para analizar, archivos fotográficos con metadatos, datos
+    estadísticos limpios y listos para usar o datos geográficos que
+    puedes analizar. Las bases de datos académicas son amplias y
+    variadas. Hay que aprovechar que las universidades tienen acceso a
+    muchas de ellas.
+
+[^4]: Este espacio no es suficiente para explicar cada medida. La
+    mayoría de estas medidas pueden verse en [Metrics
+    Toolkit](https://www.metrics-toolkit.org/explore-metrics/#1628+type-of-research-object:outputs-journal-articles).
+
+[^5]: Hay muchas formas de medir las investigaciones en el campo
+    académico y depende de cada base de datos qué métricas se incluyen.
+    Algunas incluyen cuántas veces son mencionados los trabajos en
+    Twitter, cuántos lectores tienen en Mendeley o cuántas veces han
+    sido descargadas.
+
+[^6]: Por el momento quisiera solo mencionar la existencia de grandes
+    herramientas como [Bibliometrix](https://www.bibliometrix.org/) para
+    R y [ScientoPy](https://www.scientopy.com/es/) para Python. Estos
+    dos son paquetes de análisis cienciométrico que necesitan de un poco
+    más de conocimiento en manejo de bases de datos y lenguajes de
+    programación para científicos sociales (aunque en el caso del
+    paquete de R también puede usarse con una sencilla Shinny App).
+
+[^7]: En el momento que escribo, algunos gestores populares son
+    [Zotero](https://www.zotero.org/),
+    [Mendeley](https://www.mendeley.com/download-desktop/) o
+    [JabRef](http://www.jabref.org). Yo en lo particular uso Zotero
+    porque es software libre, aunque también he oído maravillas de
+    Mendeley. Para fines prácticos podemos decir que cumplen los mismos
+    objetivos y tú puedes utilizar el que mejor te acomode. Lo que
+    escribo está basado en mi experiencia con Zotero.
+
+[^8]: Por ejemplo, Zotero tiene funcionalidades extendidas por medio de
+    plugins como extraer tus subrayados y notas en PDFs con
+    [Zotfile](http://zotfile.com/) o manejar citas en entornos como
+    LaTeX o Markdown con [Better BibTex](http://zotfile.com/), así como
+    [muchas otras funciones](https://www.zotero.org/support/plugins).
+
+[^9]: Las aquí presentadas se basan en distintas fuentes como el blog
+    Raul Pacheco-Vega (2017a, 2020), el libro de Sönke Ahrens (2017),
+    algunas sesiones videograbadas de la Universidad de Kyoto (Lin,
+    2020) y las secciones que dedican Corbin y Strauss (2015) al
+    respecto.
+
+[^10]: Evidentemente se trata de una pequeña reseña. Hay que recordar
+    que también las hay más desarrolladas como las reseñas sistemáticas
+    de literatura que incluso están sujetas a publicación académica.
+    Pero no hay que restarles importancia, después de muchas pequeñas
+    reseñas pueden surgir otras más complejas.
+
+[^11]: En mi opinión, *una mala elección sería utilizar un procesador de
+    textos como Word* para almacenar tus notas. No está pensado para
+    tomar notas, los documentos y carpetas pueden traspapelarse incluso
+    de forma digital. El formato no es el más adecuado, ocupa más
+    espacio del requerido. Usa un software especializado y no habrá
+    vuelta atrás, es mucho mejor.
+
+[^12]: Otras interesantes pero menos populares son
+    [Boostnote](https://boostnote.io/), [Notable](https://notable.app/),
+    [Simplenote](https://simplenote.com/), [Typora](https://typora.io/),
+    [Ghostwriter](https://wereturtle.github.io/ghostwriter/),
+    [Bear](https://bear.app/), [iA Writer](https://ia.net/es/writer),
+    etc. Algunas se concentran en una mejor experiencia de escritura,
+    otras están pensadas para programadores, la mayoría son gratuitas y
+    algunas son de código abierto.
+
+[^13]: Las opciones que enumero son algunas de las más populares y
+    estables, así que por lo menos se mantendrán en el paisaje digital
+    por algún periodo en el tiempo.
+
+[^14]: Mi recomendación para eso es utilizar archivos de texto plano
+    como [Markdown](https://www.markdowntutorial.com/es/) (Gruber, 2004;
+    Zhang, 2020), que han demostrado ser muy confiables a lo largo de
+    décadas y sigue mejorando con el tiempo, además de que tiene más
+    ventajas de las que te imaginas. Otras opciones similares son
+    AsciiDoc o reStructuredText. Todas las opciones sólo son sintaxis
+    ligeramente distintas para escribir en texto plano.
+
+[^15]: [Markdown](https://www.markdowntutorial.com/es/) es un lenguaje
+    de marcado ligero con una sencilla sintaxis de escritura en texto
+    plano. En su simpleza esta su potencia. Es altamente compatible con
+    muchísimos programas. Se utiliza en páginas web, en código e incluso
+    en edición de [textos
+    académicos](https://jaantollander.com/post/scientific-writing-with-markdown/).
+    Básicamente cualquier editor de texto no restrictivo tiene opciones
+    para usar o exportar a Markdown. Probablemente pueda parecer
+    complicado en un primer momento, pero es más sencillo de lo que
+    parece y es muy adaptable. No sólo se usa para tomar notas, también
+    hacer trabajos enteros, desde ensayos, hasta tesis y libros (Balsch,
+    2018; Frank & Hartgerink, 2017). Para ver parte del universo
+    Markdown puede servirte indagar en [Awesome
+    Markdown](https://github.com/mundimark/awesome-markdown) o [Markdown
+    Guide](https://www.markdownguide.org/).
+
+[^16]: El número dedicado a archivos personales de la revista polaca
+    Czas Kultury (Duda et al., 2017) recopila algunas de formas de
+    trabajo de distintos académicos de la región. Particularmente
+    recomiendo el artículo de Aleksadra Kil (2017) sobre el profesor
+    Stanisław Pietraszko.
+
+[^17]: La oposición marcada es ilustrativa, en realidad muchos de los
+    sistemas de gestión del conocimiento combinan ambos métodos en
+    ciertos aspectos. El zettelkasten de Luhmann es un ejemplo de ello.
+    Aunque su sistema se basaba en conexiones y desarrollos espontáneos,
+    su fichero físico tenía una estructura de árbol numerada.
+
+[^18]: El trabajo de Luhmann está ampliamente documentado. Su archivo de
+    fichas y notas pueden consultarse digitalmente en una completa [base
+    de datos de la Universidad de
+    Bielefeld](https://niklas-luhmann-archiv.de/bestand/zettelkasten/suche).
+
+[^19]:
+
+[^20]: Johannes F.K. Schmidt (2016) describe con mayor detalle en que
+    consiste el método zettelkasten a partir de la experiencia
+    documentada de Niklas Luhmann . El método es bastante conocido por
+    lo que es muy fácil encontrar información sobre él. Incluso hay un
+    [sitio web](https://zettelkasten.de/posts/overview/) dedicado a su
+    discusión y difusión.
+
+[^21]: La referencia obligada sobre la visualización de datos es Edward
+    Tufte, quién ha hecho importantes aportaciones en distintas
+    disciplinas. A pesar de la gran producción al respecto, los trabajos
+    de Kieran Healy y Alberto Cairo son útiles para estudiantes de
+    ciencias sociales con poca experiencia.
+
+[^22]: Como [The Data Visualisation
+    Catalogue](https://datavizcatalogue.com/) y algunos [otros
+    recursos](https://datavizcatalogue.com/resources.html).
+
+[^23]: Los gráficos de esta sección están realizados con Mermaid a
+    excepción de la visualización de Evans-Pritchard.
