@@ -7,7 +7,6 @@ output:
   bookdown::gitbook:
     split_by: "section"       # Páginas por secciones (en lugar de capítulos)
     split_bib: no             # No se muestra bibliografía al final de cada página
-
 ---
 # Introducción {-}
 
