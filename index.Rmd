@@ -4,7 +4,7 @@ author: "Carlos Lucas Mateo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
-# Introducción
+# Introducción {-}
 
 Introducción al capítulo y pequeña justificación
 

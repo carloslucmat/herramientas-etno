@@ -1,4 +1,3 @@
-introducción
 revisión-de-literatura
 bases-de-datos-académicas
 cienciometría
@@ -13,4 +12,5 @@ organización
 gestión-del-conocimiento
 aparatos-académicos-análogos
 guías-para-la-gestión-digital-del-conocimiento
-a-caucus-race-and-a-long-tale
+presentación
+visualización-de-datos

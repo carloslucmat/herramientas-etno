@@ -1,4 +1,6 @@
-# A caucus-race and a long tale
+# Presentación
+## Visualización de datos
+# Cool tools {-}
 
 
 [^1]: Aunque con tratamientos distintos a este trabajo, puedes encontrar
