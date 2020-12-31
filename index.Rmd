@@ -3,6 +3,11 @@ title: "Herramientas no etnográficas para hacer etnografía"
 author: "Carlos Lucas Mateo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    split_by: "section"       # Páginas por secciones (en lugar de capítulos)
+    split_bib: no             # No se muestra bibliografía al final de cada página
+
 ---
 # Introducción {-}
 
