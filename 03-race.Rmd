@@ -1,16 +1,16 @@
-# Cool tools {-}
+# Cool tools 
 
-### Software para análisis cualitativo
+### Software para análisis cualitativo {-}
 
-![CAQDAS FLOSS](/images/caqdas.png)
+![CAQDAS FLOSS](https://carloslucmat.github.io/images/caqdas.png)
 
 - [QualCoder](https://github.com/ccbogel/QualCoder) - Software de análisis y codificación escrito en Python con soporte para texto, imágenes, audio y video. Libre, abierto y gratuito.
 - [QCoder](https://github.com/ropenscilabs/qcoder) - Paquete para la codificación de datos en R. Libre, abierto y gratuito.
 - [Taguette](https://www.taguette.org/) - Software para codificación de datos de texto. Abierto y gratuito con aplicación Web y de escritorio.
 
-### Gestores de bibliotecas personales
+### Gestores de bibliotecas personales {-}
 
-![zot-jab-men](/images/refer22.png)
+![zot-jab-men](https://carloslucmat.github.io/images/refer22.png)
 
   - [Zotero](https://www.zotero.org/) - Gestor de referencias libre, abierto y gratuito.
       - [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - Integración de BibLaTex para Zotero.
@@ -21,7 +21,7 @@
   - [Mendeley](https://www.mendeley.com/download-desktop/) - Gestor bibliográfico y red social académica de Elsevier.
   - [Calibre](https://calibre-ebook.com/) - Un administrador de libros electrónicos.
 
-### Programas para tomar notas
+### Programas para tomar notas {-}
 
 - [Joplin](https://joplinapp.org/) -  Software libre, de código abierto para tomar notas y tareas pendientes en Markdown para escritorio y celular.
 - [Notion](https://www.notion.so/) - Aplicación todo-en-uno para tomar notas, planear proyectos, crear tableros, calendarios, recordatorios y manejar información.
@@ -32,7 +32,7 @@
 - [Boostnote](https://boostnote.io/) -Espacio de trabajo colaborativo Markdown con herramientas para programadores.
 - [Ghostwriter](https://wereturtle.github.io/ghostwriter/) - Editor Markdown limpio y sin distracciones para Linux y Windows.
 
-### Editores de texto para escribir (y otras cosas)
+### Editores de texto para escribir (y otras cosas) {-}
 
 - [Atom](http://atom.io/) - Un gran editor de texto extensible para programar, escribir, seguir tus proyectos en GitHub y mucho más.
     - [Atom para el flujo de trabajo académico](https://juancarloscastillo.github.io/jc-castillo/documents/tallerATOM/tallerATOM.html#1) - Presentación de Juan Carlos Castillo para iniciados en Atom.
@@ -44,7 +44,7 @@
 - [Marktext](https://marktext.app/) - Un editor Markdown simple y elegante, centrado en la velocidad y la usabilidad.
 - [Zettlr](https://www.zettlr.com/) - Editor Markdown basado en el sistema Zettelkasten, pensado para académicos y con integración para gestores de referencias.
 
-### Software para la gestión de conocimiento personal
+### Software para la gestión de conocimiento personal {-}
 
 - _Ver también software para notas y editores de texto_
 - [Artificial Brain Networked notebook app](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709) - Una lista comparativa, colectiva, comentada y con ejemplos de software para la creación de un _segundo cerebro_.
@@ -58,7 +58,7 @@
 - [MindForger](https://www.mindforger.com/#personal) is human mind inspired personal knowledge management tool.
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management) - Una lista seleccionada de artículos, personas, aplicaciones, bibliotecas de software y proyectos relacionados con la gestión del conocimiento. ^be20dd
 
-### Markdown
+### Markdown {-}
 
 - [Markdown Tutorial](https://www.markdowntutorial.com/) - Un tutorial interactivo para aprender Markdown en pocos minutos.
 - [Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown) - Una lección de Sarah Simpkin sobre Markdown académico.
@@ -66,7 +66,7 @@
 - [Awesome Markdown](https://github.com/mundimark/awesome-markdown#commonmark) - Una lista seleccionada sobre Markdown.
 - [Markdown for Scientific Publications](https://github.com/JensErat/scientific-markdown/#readme)
 
-### Pandoc
+### Pandoc {-}
 
 - [Pandoc](https://pandoc.org/) - La navaja suiza para la conversión de documentos creada por el filósofo John MacFarlane.
 - [Pandoc Starter](https://github.com/jez/pandoc-starter) - Un repositorio con varios archivos para comenzar con Pandoc.
@@ -77,7 +77,7 @@
 - [Plantillas pandoc](https://github.com/jgm/pandoc/wiki/User-contributed-templates) aportadas por usuarios.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Una plantilla académica sencilla de pandoc LaTeX.
 
-## Escritura académica con Markdown + Pandoc
+### Escritura académica con Markdown + Pandoc {-}
 
 ![A plain-text document toolchain en el libro de Kieran Healey.](https://plain-text.co/figures/workflow-wide.png)
 
@@ -92,7 +92,7 @@
 - [Template for writing a PhD thesis in Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean organization of files to provide a framework for writing a PhD thesis in mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.
 - [thesisdown](https://github.com/ismayc/thesisdown) - Un proyecto inspirado en bookdown para hacer tu tesis con R Markdown. Incluye plantillas de distintas Universidades.
 
-### Ilustración y visualización
+### Ilustración y visualización {-}
 
 - [Inkscape](https://inkscape.org/) Programa de vectores gráficos para diseño y arte digital.
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Sencilla herramienta de código para diagramar y graficar por medio de texto.
@@ -101,11 +101,12 @@
 - [graphviz](https://graphviz.org/) - Visualization software for graphs and networks which uses a domain-specific DOT language.
 - [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
 
-## Git y GitHub
+### Git y GitHub {-}
+
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Una serie de videos introductorios para no-programadores.
 - [Running a collaborative blog: A glossary for GitHub & Jekyll](https://scholarslab.lib.virginia.edu/blog/github-jekyll-glossary/) - Un glosario de términos frecuentes en GitHub y Jekyll.
 
-### Recursos
+### Recursos {-}
 
 - [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) - Pequeña guía de Kieran Healy sobre el flujo de trabajo académico en texto plano para ciencias sociales. Contenido sobre R Markdown, editores de texto y hasta una una introducción a Emacs.
 - [The Programming Historian](https://programminghistorian.org/en/lessons/) - Revista de historia y humanidades digitales con lecciones como:
@@ -120,7 +121,7 @@
     - [Harvard Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources).
   - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
 
-## Videos
+### Videos {-}
 
 - Los videos de Nicholas Cifuentes-Goodbody [sobre Markdown](https://youtu.be/hpAJMSS8pvs), [Pandoc](https://youtu.be/N31E_NZYQQY) o sobre [Zotero](https://www.youtube.com/playlist?list=PLXt-tu7G1H3vlRXLmGyOzeAp7ZKDK0pty), [Bib(La)TeX](https://youtu.be/GAVXVkcpbG0), entre otros.
 - Algunos flujos de trabajo con Zotero y otras herramientas como el de [explauramay](https://www.youtube.com/watch?v=RU9lzlBnGdA) o el de [Robert Karl para historiadores](https://www.youtube.com/watch?v=sZP6X7EIN6g).
@@ -128,7 +129,8 @@
 - [How to create a bookdown book in 5 minutes](https://youtu.be/m5D-yoH416Y).
 - Brian Jenks sobre [OrcID, Zotero, Mendeley y más](https://youtu.be/Mz21UNoLNu4).
 
-### Awesome awesome lists
+### Awesome awesome lists {-}
+
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Para la escritura académica.
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme) - Herramientas para la investigación.
 - [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - Para hacer ciencia sin instituciones.
@@ -141,4 +143,4 @@
 
 
 
-## Referencias {-}
+# Referencias
