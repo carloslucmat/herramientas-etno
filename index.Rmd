@@ -1,7 +1,6 @@
 --- 
 title: "Herramientas no etnográficas para hacer etnografía"
-author: 
-  Carlos Lucas Mateo"
+author: Carlos Lucas Mateo
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
