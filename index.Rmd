@@ -1,6 +1,7 @@
 --- 
 title: "Herramientas no etnográficas para hacer etnografía"
-author: "Carlos Lucas Mateo"
+author: 
+  Carlos Lucas Mateo"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
@@ -8,7 +9,14 @@ output:
     split_by: "section"       # Páginas por secciones (en lugar de capítulos)
     split_bib: no             # No se muestra bibliografía al final de cada página
 ---
+
 # Introducción {-}
+
+Este capítulo pretende dar recomendaciones prácticas sobre cómo realizar
+tareas de organización y sistematización de datos.
+
+Este capítulo se dedica a la organización y a la sistematización de
+datos.
 
 Introducción al capítulo y pequeña justificación
 
@@ -21,7 +29,6 @@ páginas, recursos y demás.
 Similares a este trabajo, pero no antropológicos.[^1]
 
 Disclaimers
-
 
 # Revisión de literatura
 
@@ -37,39 +44,37 @@ quisiera compartirles algunas de ellas.
 Primero tenemos que saber qué vamos a investigar. Puede sonar muy obvio,
 pero buscar literatura sobre generalidades nos llevará a lugares
 abiertos que difícilmente podremos manejar. Por lo menos debemos tener
-claro alguna temática de interés, alguna problemática o por lo menos un
-espacio delimitado. Por ejemplo, podemos pasar de "antropología
-económica" a "economías informales en la Ciudad de México". Aunque
+claro alguna temática de interés, alguna problemática particular o por
+lo menos un espacio delimitado. Por ejemplo, podemos pasar de "economías
+informales" a "comercio ambulante en la Ciudad de México". Aunque
 todavía puede ser general, nuestros esfuerzos están más enfocados en un
 área más delimitada en la cual nos podemos mover sin perdernos; podemos
 salir, regresar y todavía tener una guía para avanzar. No es necesaria
-tanta severidad al comienzo. Nuestras investigaciones y temas de interés
-se irán clarificando y especificando conforme avance nuestro propio
-conocimiento sobre el tema y para ello es necesario leer.
+tanta severidad al comienzo. Nuestras investigaciones se irán
+clarificando y especificando conforme avance nuestro propio conocimiento
+sobre el tema. Para esto es necesario leer.
 
 ## Bases de datos académicas
 
 Aunque podemos ir a alguna biblioteca en busca de algún texto clásico
-sobre el tema[^2], aquí me quiero enfocar en *cómo buscar literatura
+sobre el tema[^2], aquí prefiero enfocarme en *cómo buscar literatura
 contemporánea en bases de datos académicas*. Lo reitero: la producción
 académica es abrumadora. Muchas revistas, muchos artículos, muchas
 investigaciones. Gran parte de lo que queramos investigar seguramente lo
 encontraremos ya trabajado en diversos documentos. Para eso están las
 bases de datos. En ellas podemos sumergirnos en todo tipo de recursos e
-investigaciones[^3]. Particularmente sobre literatura, encontramos
-*bibliotecas digitales*. Son de uso frecuenta
+investigaciones.[^3] Particularmente sobre literatura, encontramos
+*bibliotecas digitales*. Son de uso frecuente
 [SciELO](https://scielo.org/), [Redalyc](https://www.redalyc.org/) o
-[Dialnet](https://dialnet.unirioja.es/), que son de acceso libre y en
-español. Son muy útiles. Sin embargo, las mayores bases de datos
-científicas son otras de accesibilidad un poco más complicada. Por
-ejemplo, [Web of Science](https://apps.webofknowledge.com/) de Clarivate
-Analytics con casi 2 mil millones de referencias de todo el mundo.
-Tenemos también
-[Scopus](https://www.scopus.com),
-[EBSCO](https://www.ebsco.com/), [Core](https://core.ac.uk/), [Semantic
-Scholar](https://www.semanticscholar.org/) y demás. También son
-importantes las propias de [JSTOR](https://www.jstor.org/),
-[Elsevier](https://www.elsevier.com/) o
+[Dialnet](https://dialnet.unirioja.es/), de acceso libre y en español.
+Son muy útiles. Sin embargo, las mayores bases de datos científicas son
+otras de accesibilidad un poco más complicada. Por ejemplo, [Web of
+Science](https://apps.webofknowledge.com/) de Clarivate Analytics con
+casi 2 mil millones de referencias de todo el mundo. Tenemos también
+[Scopus](https://www.scopus.com), [EBSCO](https://www.ebsco.com/),
+[Core](https://core.ac.uk/), [Semantic
+Scholar](https://www.semanticscholar.org/) o las propias de
+[JSTOR](https://www.jstor.org/), [Elsevier](https://www.elsevier.com/) o
 [Springer](https://www.springer.com/). Algunas de estas bibliotecas no
 son de acceso libre, pero con una cuenta universitaria podrás
 explorarlas.
@@ -82,12 +87,10 @@ investigación. *Búsquedas especializadas en bases de datos
 especializadas es una gran combinación*. En las bibliotecas digitales
 académicas encontrarás información difícil de ubicar por otros medios.
 Al mismo tiempo puedes ver métricas académicas (que comento [más
-adelante](#cienciometría)) como su impacto académico o cuántas veces han
-sido citados sus trabajos, también podrás ver artículos relacionados,
-leer sus resúmenes y ver las referencias que usan. Después de hacer
-búsquedas podrás almacenar los artículos que encuentres en tu [gestor de
-referencias](#gestores-de-referencias), leerlos, escribir sobre ellos y
-seguir el ciclo.
+adelante](#cienciometría)), artículos relacionados, leer sus resúmenes y
+referencias. Después de hacer búsquedas podrás almacenar los artículos
+que encuentres en tu [gestor de referencias](#gestores-de-referencias),
+leerlos, escribir sobre ellos y seguir el ciclo.
 
 Es importante decir que entre más específica sea tu búsqueda, más cómoda
 serán las actividades posteriores de leer y escribir. Yo concentraría
@@ -98,14 +101,13 @@ Lee un puñado, subráyalos y escribe al respecto. Habiendo hecho esto ya
 tienes trabajo académico avanzado, ya estás introducido en tu tema y
 tienes un panorama general de tu área de interés. Recuerda hacer memos y
 reseñas de tu revisión de literatura, [más
-adelante](#notas-reseñas-y-memos) hay algunas recomendaciones al
+adelante](#notas-reseñas-y-memos) hago algunas recomendaciones al
 respecto.
 
 ## Cienciometría
 
-
-La producción académica tiene distintas formas de verificarse. Revisión
-por pares o el otorgamiento de recursos, reconocimientos y premios.
+La producción académica tiene distintas formas de verificarse como la
+revisión por pares o el otorgamiento de recursos y reconocimientos.
 Existen además *mediciones cuantitativas* que ayudan a darnos una idea
 de la calidad de los trabajos que encontramos y leemos. Considerar estas
 mediciones pueden ser de ayuda a la hora de buscar literatura e
@@ -113,79 +115,640 @@ investigaciones. No son perfectas, pero por lo menos es bueno tenerlas
 en consideración. Algunas mediciones bibliométricas importantes son el
 número de citaciones que recibe un trabajo, el CiteScore, el H-index, el
 factor de impacto académico o el percentil en el que se encuentra un
-artículo o una autora.[^4] [^5] Tener en cuenta estas métricas pueden
-ayudarte para analizar el paisaje académico en el que te estas moviendo:
-quiénes son las y los autores más citados, qué trabajos son los más
-novedosos y populares, qué temas se están tratando y qué avances se
-están teniendo. Para eso hay que saber qué indica cada medida y qué nos
-dice del trabajo que estamos revisando.
+artículo o una investigadora.[^4] [^5] Tener en cuenta estas métricas
+pueden ayudarte para analizar el paisaje académico en el que te estas
+moviendo: quiénes son las y los autores más citados, qué trabajos son
+los más novedosos y populares, qué temas se están tratando y qué avances
+se están teniendo. Para eso hay que saber qué indica cada medida y qué
+nos dice del trabajo que estamos revisando.
 
 Con las medidas bibliométricas se abren posibilidades para realizar
 mejores búsquedas de literatura, incluso para investigarlas y
 analizarlas. El *mapeo científico* es uno de los métodos que se utilizan
 para estos fines. Estas herramientas pueden requerir algunas habilidades
-extras (a las que no pretendo entrar).[^6] Aunque no son herramientas
-que consideraría esenciales, creo que por lo menos es importante saber
-que existen, que puedes aprenderlas y utilizarlas. Algunos proyectos
-amigables que pueden servirte son [Connected
+extras (a las que no pretendo entrar).[^6] Algunos proyectos amigables
+que pueden servirte son [Connected
 Papers](https://www.connectedpapers.com) o [Citations
 Gecko](https://citationgecko.azurewebsites.net). Ambos despliegan
 información bibliométrica de artículos científicos en un grafo visual.
-Por medio de estas herramientas puedes ver las relaciones entre trabajos
-y autores, número de citaciones y demás mediciones de forma gráfica sin
-necesidad de habilidades especializadas.
 
 ## Lectura rápida y lectura profunda
 
-
 Es evidente que no podemos leer todo lo que nos gustaría. Para esto
-existen algunas formas para agilizar el proceso de revisión de
-literatura que pueden complementar lo ya visto en los anteriores
-apartados. La lectura rápida es un consejo muy popular, pero en
-específico el método AIC (Resumen-Introducción-Conclusión en inglés)
-puede ser de gran ayuda (Pacheco-Vega, 2017b). Busca en las bases de
-datos artículos de tu tema y selecciona un puñado de ellos. Lee el
-resumen; de qué va, cuál es el argumento que intenta demostrar, cómo lo
-hará. Después lee la introducción; cómo posiciona su artículo, qué
-métodos se usan, a qué colegas cita. Por último las conclusiones;
-observa si logró sus objetivos, qué recupera como importante, cómo lo
-sintetiza. Haz algunas anotaciones rápidas y subraya si es necesario.
-Esto no sustituye de ninguna forma la lectura en profundidad, pero
-tendremos una idea amplia de lo que abordan los artículos, descartaremos
-algunos textos y más adelante regresaremos a otros con más detenimiento.
-*Piensa esto como un filtro, no como un acelerador.* Una vez conociendo
-los artículos de forma superficial puedes ordenarlos según tu grado de
-interés o pertinencia para tu trabajo y proceder a leerlos con
-detenimiento y profundidad. La lectura en profundidad implica
-necesariamente más tiempo, más dedicación y más trabajo, pero por lo
-menos ya tendrás ideas iniciales antes de profundizar en él. La lectura
-profunda implica no sólo leer, sino también anotar, subrayar, escribir
-[memos y reseñas](#reseñas-y-memos).
+existen algunas formas de agilizar el proceso de revisión de literatura
+que pueden complementar lo ya visto en los anteriores apartados. La
+lectura rápida es un consejo muy popular, pero en específico el método
+AIC (Resumen-Introducción-Conclusión en inglés) puede ser de gran ayuda
+(Pacheco-Vega, 2017b). Busca en las bases de datos artículos de tu tema
+y selecciona un puñado de ellos. Lee el resumen; de qué va, cuál es el
+argumento que intenta demostrar, cómo lo hará. Después lee la
+introducción; cómo posiciona su artículo, qué métodos se usan, a qué
+colegas cita. Por último las conclusiones; observa si logró sus
+objetivos, qué recupera como importante, cómo lo sintetiza. Haz algunas
+anotaciones rápidas y subraya si es necesario. 
+
+Esto no sustituye de ninguna forma la lectura en profundidad, pero tendremos una idea amplia
+de lo que abordan los artículos, descartaremos algunos textos y más
+adelante regresaremos a otros con más detenimiento. *Piensa esto como un
+filtro, no como un acelerador.* Una vez conociendo los artículos de
+forma superficial puedes ordenarlos según el grado de interés o
+pertinencia para tu trabajo y proceder a leerlos con detenimiento. La
+lectura en profundidad implica necesariamente más tiempo, más dedicación
+y más trabajo, pero por lo menos ya tendrás ideas iniciales antes de
+profundizar. La lectura profunda implica no sólo leer, sino también
+anotar, subrayar, escribir [memos y reseñas](#reseñas-y-memos).
+
+Para más consejos sobre lectura y escritura académica (entre otras muchas cosas)
+puedes checar el [blog de Raul Pacheco-Vega](http://www.raulpacheco.org/blog/). 
 
 ## Gestores de referencias
 
-
 El mejor amigo para la revisión de literatura es un gestor de
-referencias bibliográficas en tu computadora.[^7] Con él almacenas,
-organizas, manejas tus citas y mucho más.[^8] Los gestores de
+referencias bibliográficas en tu computadora.[^7] Los gestores de
 referencias son una herramienta esencial para a tu proceso de trabajo.
 Es una biblioteca académica personal, te ayuda a mantener en orden tus
 lecturas, puedes hacer anotaciones en ellas, puedes modificar los
-metadatos de tus documentos, asignar etiquetas a ellos y mucho más.
-Además, te facilita de sobremanera el engorroso proceso de citado y
+metadatos de tus documentos, asignar etiquetas a ellos y mucho más.[^8]
+También, te facilita de sobremanera el engorroso proceso de citado y
 referenciación. Una actividad tan tediosa y tardada puede ser casi
 automatizada por medio de un gestor.
 
-Primero, algunas configuraciones para empezar. Una vez instalado es
+Primero, algunas configuraciones para empezar. Una vez instalado, es
 importante preparar la extensión de navegador y el complemento para Word
-(o el editor de texto que uses). Con la extensión guardarás los
-materiales que encuentres en internet. Las referencias se vinculan a tu
-colección de biblioteca y después, con el complemento para tu editor de
-texto, puedes citar directamente desde tu documento. Buscas literatura,
-la guardas, lees, escribes y citas. El flujo de trabajo se agiliza con
-tu gestor. Los gestores son grandes herramientas y sus capacidades
-pueden integrarse a tus necesidades. Conoce el entorno que manejas, ve
-sus potencialidades escondidas, lee su documentación y úsalo, en verdad
-es una herramienta indispensable para el trabajo académico.
+(procesador de documentos o editor de texto). Con la extensión guardarás
+los materiales que encuentres en internet. Las referencias se vinculan a
+tu colección de biblioteca y después, con el complemento para tu editor
+de texto, puedes citar directamente desde tu documento. *Buscas
+literatura, almacenas, lees, escribes y citas.* El flujo de trabajo se
+agiliza. Los gestores son grandes herramientas y sus capacidades pueden
+integrarse a tus necesidades. Conoce el entorno que manejas, lee su
+documentación, ve sus potencialidades escondidas, y úsalo, en verdad es
+una herramienta indispensable para el trabajo académico.
 
+# Notas, reseñas y memos
+
+Por alguna razón suele considerarse a la escritura como la etapa final
+de una investigación. Lees, investigas y por último escribes. Parece muy
+razonable, pero en realidad leemos en cualquier día y tenemos ideas a
+cualquier hora. No tendríamos que esperar hasta el final para escribir.
+Ideas surgen en todo lugar y en todo momento. Seguramente has tenido
+destellos de creatividad que quedaron en tu propio olvido por no
+anotarlos. Por eso son importantes las notas. Un paso para materializar
+tus ideas es escribir sobre ellas. No importa la extensión o el
+contenido, lo importante es escribir. Anota tus impresiones sobre un
+documental, sobre una exposición, haz notas sobre una idea o sobre lo
+que sea. En este apartado quiero delinear algunos consejos sobre la
+escritura de notas, memos y pequeñas reseñas, resaltando sus virtudes y
+utilidades.
+
+## Notas
+
+Cuando hablo de notas no me refiero a notas de clase, sino notas en
+general: anotaciones fugaces, párrafos pequeños u oraciones atómicas que
+después se van desarrollando. Las notas son micro y medianos escritos
+sobre prácticamente cualquier cosa que quieras mantener en el tiempo.
+Son oraciones y párrafos con potencial creativo con el objetivo de ser
+utilizados más adelante. Las notas no sólo son el registro de tu
+pensamiento, pueden pensarse incluso como tu propio pensamiento. Puede
+parecer absurdo, pero realmente hay quienes lo defienden (Ahrens, 2017;
+Luhmann, 1981). Escribir notas es un ejercicio constante para la
+cristalización de tus ideas. Las notas son la materialización de tu
+pensamiento que puedes recuperar más adelante cuando lo necesites. Otra
+de sus virtudes está en la escritura, que puede ser una tarea pesada, en
+cambio, escribir pequeñas anotaciones puede ser muy ligero, y sin
+embargo, cumple con los mismos objetivos. Tus notas/ideas se van
+agregando con el tiempo y al final tendrás una gran cantidad de
+productos que has ido desarrollando en un proceso continuo de escritura.
+Tendrás que dar orden, pero las ideas ya están ahí.
+
+No hay forma correcta de hacer notas. Algunos toman notas caóticas y aun
+así son capaces de darles gran orden en la etapa final de escritura.
+Otros pueden ser muy metódicos, tener un sistema altamente organizado y
+sin embargo utilizar sus notas de forma inadecuada. Cada persona
+desarrolla su propio flujo de trabajo, pero lo importante es que
+funcione y no solo sea una actividad pasiva carente de utilidad.
+Lévi-Strauss puede servir de referencia en este aspecto:
+
+> Pero me las arreglo cuando trabajo acumulando notas, un poco sobre
+> todo, ideas capturadas sobre la marcha, resúmenes de lo que he leído,
+> referencias, citas\... Y cuando quiero empezar un proyecto, saco un
+> paquete de notas de su casillero y las reparto como una baraja de
+> cartas. Este tipo de operación, en la que el azar juega un papel, me
+> ayuda a revivir mi memoria fallida\... (Lévi-Strauss citado por Kil,
+> 2017: 96)
+
+## Tipos de notas
+
+Sin pensarlo, como estudiantes estamos haciendo notas de todo tipo. Tal
+vez no sea importante detenerse en tipologías y caracterizaciones, pero
+puede servir conocer algunas propuestas para acercarnos a la comprensión
+de qué hacemos y qué podemos hacer. Aquí sintetizo algunos tipos que
+considero importantes para el trabajo académico.[^9]
+
+-   
+-   Anotaciones rápidas: Es una anotación *temporal* realizada en el
+    momento para captar una idea o información que se utiliza para
+    después redactar una nota más amplia. Los *joints* en el trabajo de
+    campo son un buen ejemplo.
+-   Notas sintéticas: Pequeños escritos sobre ideas propias que pueden
+    ayudar a la escritura posterior. Las notas sintéticas pueden
+    convertirse en notas permanentes con contenido más desarrollado.
+-   Notas de lectura: Se resume el contenido de algún texto con su
+    respectiva referencia. De tus notas de lectura pueden hacerse
+    pequeñas reseñas.
+-   Memos: Los memos registran las ideas analíticas de nuestras
+    observaciones y nuestro proceso de trabajo para después utilizarlas
+    como material de trabajo. Aquí se incluyen hipótesis, posibles
+    explicaciones, conexiones conceptuales o análisis de datos que vayan
+    surgiendo en el camino.
+-   Notas de proyecto: Ayudan a gestionar un proyecto que estés
+    realizando, se incluyen indicaciones, comentarios, agendas,
+    objetivos y tareas restantes.
+-   Notas permanentes: Contienen una o varias ideas desarrolladas,
+    explicadas y bien redactadas producto de pequeñas notas previas. Con
+    estas notas podrás trabajar y redactar productos finales.
+
+La idea es que las notas se integren a nuestro trabajo a largo plazo y
+no solo unos cuantos meses. Tomar notas es un avance importante en la
+escritura y el análisis. Pienso que los memos y las notas de lectura son
+de particular importancia, por eso el siguiente apartado.
+
+## Reseñas y memos
+
+Me atrevería a decir que una lectura sin subrayados y sin notas no es
+una buena lectura. Leer implica una reflexión paralela. Si ya leíste un
+texto, por lo menos trata de sacar lo más importante de ahí. Conceptos,
+ideas, citas importantes. Generalmente esto se hace subrayando, pero lo
+ideal es que también entrenes tu redacción y capacidad de síntesis
+reescribiendo las ideas del texto. No tiene que ser algo muy grande, un
+párrafo o dos puede ser suficiente. Felicidades, ya hiciste una
+reseña.[^10] Pero tú también tienes ideas sobre el texto, eso también es
+importante anotarlo. Haz notas pequeñas, después esas notas se harán más
+grandes y las ideas también. Tus reseñas sintetizan tu lectura sobre un
+texto, así no tienes que regresar a él cada vez que tengas dudas al
+respecto. Tus subrayados se condensan en oraciones redactadas por ti y
+no es necesario releer párrafos enteros desconectados del contexto
+literario. A la par, también puedes ir registrando tu trabajo a través
+de memos. Los memos son registros de tu pensamiento analítico (Corbin &
+Strauss, 2015). Son anotaciones que acompañan tus ideas y proceso de
+trabajo. Pueden ser sobre textos, videos, archivos, fotos, tu proceso de
+escritura, el desarrollo de un trabajo.
+
+> La redacción de memos permite comprometerte de verdad con el material
+> (más allá de resaltar y tomar notas en los márgenes de las copias
+> impresas o digitales en PDF). Escribir memorandos también permite
+> integrar la lectura en tu flujo de trabajo de escritura. ¿Atascado por
+> la mañana durante el tiempo planeado para escribir? Puedes leer un
+> artículo y escribir un memorándum sobre él = problema resuelto. Puedes
+> escribir memorandos sobre tus lecturas, sobre tu trabajo de campo,
+> sobre tus datos (de laboratorio o de campo o generados por ordenador).
+> El elemento clave es que, sea cual sea el tipo de memorándum que
+> escribas, te sea útil. (Pacheco-Vega, 2016)
+
+De tus reseñas surgen nuevos memos y de tus memos surgen nuevas ideas
+que luego se hacen notas y así el trabajo se integra. Las reseñas y
+memos están subestimadas. En serio pueden ser de gran ayuda en la
+escritura de trabajos, ensayos, presentaciones o lo que sea que venga en
+el futuro. Los memos y las reseñas forman parte de tu archivo que puedes
+ocupar más adelante. *Los memos pueden convertirse en ensayos y las
+reseñas en marcos teóricos.*
+
+## Almacenamiento de notas {#almacenamiento-de-notas-1}
+
+*Las notas deben ser legibles y consultables en el tiempo*. No sé a ti,
+pero a mí las anotaciones y los rayones en papel se me pierden
+fácilmente. Las ideas se pierden, por eso hay que documentarlas de
+alguna forma confiable. Hay que plasmarlas. Las anotaciones rápidas al
+margen de un texto pueden servir momentáneamente, pero siempre es mejor
+redactarlas de mejor manera y moverlas a un espacio duradero para que te
+puedan ser de utilidad en el futuro.
+
+Aquí me concentro en formas digitales de tomar notas. Hacer notas
+digitales tiene sus ventajas: es más fácil manejarlas y editarlas,
+puedes indagar y acceder a ellas de forma más ágil, y, dependiendo del
+software que uses, hay grandes funcionalidades para utilizar a tu favor.
+Lo primero es usar un programa diseñado especialmente para escribir y
+guardar notas[^11]. *Ninguna opción es perfecta*, lo mejor es probarlas
+y que las evalúes de acuerdo con tus necesidades. Casi todas las
+opciones tienen características similares, pero hay diferenciadores
+entre ellas: [*Evernote*](https://evernote.com/) es muy popular para
+etiquetar notas y contenido multimedia además de que formatea texto;
+[*Notion*](https://www.notion.so/) tiene características similares, es
+muy maleable y personalizable, puedes ordenar su estructura como quieras
+y organizar tu información en diferentes plantillas;
+[*Joplin*](https://joplinapp.org/) es una opción libre y de código
+abierto confiable y segura que integra las ventajas del formato
+Markdown; [Simplenote](https://simplenote.com/) es una opción
+minimalista multiplataforma; *OneNote* viene incluida en la ofimática de
+Office *y* *DEVONthink* es una opción popular entre los usuarios de iOS.
+Existen muchas opciones y existirán más. [^12] [^13] En el siguiente
+apartado hablaré de otras opciones más complejas que podrían interesarte
+para la [gestión del conocimiento](#gestión-del-conocimiento).
+
+Sea cual sea el software que utilices, éste debería ser lo
+suficientemente flexible para manejar y exportar tus archivos cómo
+quieras. Imagina que haces todas tus notas en un programa, te decepciona
+y después quieres utilizar otro. Un buen programa por lo menos te
+dejaría migrar sin peros. Y relacionado con lo anterior está el tipo de
+archivo[^14]. El archivo de tus notas tiene que ser a-prueba-de-futuro.
+Quieres que tus notas sirvan durante muchos años más.[^15] Algo
+importante es que el software que uses sea confiable y estable, si es
+posible multiplataforma, además de que conozcas lo suficiente sobre él
+para sacarle el máximo provecho posible. Que la elección de software no
+te distraiga de lo más importante: *escribir*.
+
+# Organización
+
+Es común que el trabajo académico se entienda como un proceso lineal. Se
+inicia con una pregunta, se lee al respecto, se investiga y finalmente
+se escribe un producto. Lo malo es que el último paso parece nunca
+llegar y se perdió mucho tiempo esperándolo. En realidad, el proceso es
+más enredado y recursivo. *Mucho del trabajo "final" realmente se
+encuentra en los momentos previos*; en tu escritura continua de notas y
+memos o en la lectura de tus notas de campo. Para que ese trabajo
+constante se mantenga en el tiempo y pueda serte útil para el análisis
+posterior es necesario poner cierto orden a toda la información
+recogida. Fotos, audios, textos, ideas, memos, reseñas. La organización
+es un paso fundamental para eso*.* No importa si eres una persona
+caótica o muy dispersa, por lo menos debes tener una idea de cómo están
+distribuidos tus datos e información para que te sean útiles a lo largo
+de tu trabajo. La organización de la información es de doble
+importancia. Primero, tal vez lo principal, porque permite que tu
+información, a la que le has invertidos tiempo investigando, leyendo y
+escribiendo, *se mantenga útil y disponible en el tiempo*. Y segundo,
+porque la organización de tu información requiere indirectamente una
+reflexión sobre ella y te ayudará a que el proceso de análisis sea más
+fluido. *No desestimes la organización de tu trabajo en su conjunto.*
+
+## Gestión del conocimiento
+
+Conforme el acceso a información ha incrementado, también se han
+desarrollado herramientas para gestionar las cada vez más grandes
+cantidades de información. Científicos, filósofos, bibliotecólogos y
+demás pensadores han jugado un papel importante en dichos desarrollos
+que generalmente se dan por tácitos. En lo que a las ciencias sociales
+respecta, existen pocos académicos que explicitan su forma de trabajo
+(Blair, 2010; Cevolini, 2016; Luhmann, 1981; Mills, 1980), tal vez
+porque podría parecer banal y superficial, cuando en realidad se trata
+de una cuestión fundamental. Miramos los resultados logrados y no las
+herramientas por medio de las cuáles fueron posibles esos grandes
+productos. A lo largo de todo este capítulo repleto de consejos
+prácticos he buscado dar idea de estas herramientas, que en su conjunto,
+pueden acercarse a la explicitación de cómo es el trabajo académico en
+los tiempos que escribo. Para este apartado sobre gestión del
+conocimiento, recomiendo que se recapitulen algunas de las herramientas
+que he descrito brevemente en apartados anteriores para dar una mejor
+idea al respecto.
+
+## Aparatos académicos análogos
+
+Por mucho tiempo los archivos, diarios, cajas y fichas fueron *la*
+herramienta con las que se realizaba el trabajo académico. Gran parte de
+los desarrollos de la gestión del conocimiento antes de los 2000 se
+realizaron con estos aparatos. Fichas de papel, un buen bolígrafo,
+cajas, ficheros, carpetas, sobres, un escritorio adecuado y una silla
+cómoda. Muchos de estos procesos han perdurado, otros se han adaptado,
+modificado y otros nuevos han surgido. Actualmente esto puede parecer
+obsoleto (pienso que en parte lo es), pero los desarrollos que se
+lograron a lo largo de décadas deben servir de algo para la gestión del
+conocimiento en tiempos contemporáneos. Grandes antropólogos y
+sociólogos trabajaron de esta manera, desde Claude Lévi-Strauss, Roland
+Barthes o Niklas Luhmann (a quienes menciono porque su forma de trabajo
+está registrada), además de muchísimas personas más, incluyendo a
+algunos de tus profesores.[^16] Sería importuno decir en que consistían
+estas formas de trabajo dado que están en desuso, pero vale la pena
+revisarlas para ver cómo *realmente* trabajaban los y las académicas
+(Blair, 2010; Cevolini, 2016; Duda et al., 2017; McGranahan, 2020;
+Pandian, 2019) y porque lamentablemente no tengo espacio para
+describirlas.
+
+## Guías para la gestión digital del conocimiento
+
+Aquí doy algunas pistas para la gestión del conocimiento en tiempos
+digitales donde las principales herramientas son una computadora,
+software adecuado y un buen sistema de organización. No me gustaría
+decir que hay métodos incondicionales y definitivos, me parece muy
+cuadrado. Siempre será mejor la adaptación según tus gustos y
+necesidades. Mucho de esto incluso lo haces por puro sentido común, pero
+saber que hay gente que lo ha sistematizado da un poco de aliento para
+tomar algunas ideas y construir tu propio sistema poco a poco.
+
+En estos años se han desarrollado algunos sistemas populares para el
+manejo digital de información. Hay quienes enfatizan la productividad y
+el manejo de proyectos (como el método P.A.R.A.), otros más se dedican
+al almacenamiento eficaz de contenido multimedia (para gestionar
+marcadores en línea), un grupo importante busca manejar notas de la
+mejor forma posible (como Ahrens y los seguidores de Luhmann) y algunos
+buscan dotar a académicos de un sistema coherente de categorización
+(como los sistemas decimales y bibliotecológicos). Para comentarlas
+rápidamente digamos que hay sistemas basados en el orden y la estructura
+mientras que otros son más libres y espontáneos. La distinción puede
+remitir a la célebre diferenciación entre jardineros y arquitectos de
+George R. R. Martin, pero en lo que a gestión del conocimiento se
+refiere, la oposición podría ser entre *folgezettel* y
+*zettelkasten*.[^17] Que los nombres en alemán no te asusten, la
+distinción es simple. La primera basa su poder en estructurar de forma
+lógica la información en un esquema de árbol con categorías generales y
+puntos específicos (similar a si nos guiáramos por la Guía Murdock para
+datos culturales). La otra se basa en el surgimiento de notas, su
+almacenamiento espontáneo y conexiones entre ellas sin un orden
+preestablecido (aunque no por ello desestructurado).
+
+## Zettelkasten[^18]
+
+El método zettelkasten se ha hecho muy popular por haber sido la
+elección de Niklas Luhmann para realizar su trabajo.[^19] El método se
+basa en la escritura y almacenamiento de notas de lectura y notas
+permanentes estableciendo conexiones entre ellas a través de
+identificadores numéricos únicos (Luhmann, 1981; Schmidt, 2016). A pesar
+de ser muy antiguo (incluso muy anterior al propio Luhmann), el sistema
+se ha recuperado por ser fácilmente adaptable a tiempos digitales por
+medio de software. Es un método simple. No se necesitan muchos recursos,
+es fácilmente replicable y al mismo tiempo muy maleable. Si a eso se
+agrega la promesa de ser tan prolífico como Luhmann, el sistema
+zettelkasten es más que prometedor. Sin embargo hay que tratarlo con
+mucho cuidado. El sistema no es la panacea del trabajo académico y puede
+ser una decepción si lo tomamos al pie de la letra. El sistema requiere
+ciertas condiciones, cierto tipo de notas y cierto tipo de vínculos. No
+todo entra en el método. De cualquier forma puede servir de inspiración
+para implementar nuestro propio sistema, que es lo que deberíamos
+perseguir a lo largo del tiempo. Con estas aclaraciones hechas veamos en
+que consiste el método.
+
+La traducción del alemán es simplemente 'caja de notas'. Por su nombre
+podemos deducir que se trata de algo poco espectacular y que ya habíamos
+tratado algo similar en un [apartado anterior](#notas-reseñas-y-memos).
+El sistema se compone de un archivero y fichas de papel con notas
+sintéticas sobre ideas, lecturas y proyectos. La característica que dota
+de fascinación al sistema es la interconexión entre notas. Una nota
+pertenece a varios lugares, tiene relación con distintas notas y
+distintos temas aunque se almacene en un solo lugar.[^20] Las ideas que
+se integren al archivo no tienen una posición fija, sino que se
+relacionan entre ellas de distintas formas. Por poner un ejemplo, el
+diseño de una casa puede recordarte a una que viste en otro lugar y ser
+de interés para temáticas tan diversas como etnoarqueología, parentesco,
+tecnología, arte o estética. Esto permite que el sistema de notas
+evolucione continuamente. Con el tiempo el sistema va adquiriendo cierta
+autonomía. Algunas ideas crecen, mientras que otras se abandonan,
+algunas pocas se recuperan. La importancia de esta 'caja de notas' queda
+registrada en palabras de Luhmann en no pocas ocasiones: "Sin esas
+fichas, sólo por contemplar, estas ideas nunca se me habrían ocurrido.
+Por supuesto, mi mente es necesaria para anotar las ideas, pero no
+pueden ser atribuidas a ella sola."(Luhmann citado por Schmidt, 2016, p.
+295).
+
+## Categorías, etiquetas y vínculos
+
+Ordenar información es un reto. Al organizar una biblioteca u ordenando
+una enciclopedia nos percatamos que cualquier categorización tiene
+cierto grado de arbitrariedad.[^21] El problema es viejo y aún vigente.
+Clay Shirky (2005) en el auge de la blogósfera escribía sobre los
+problemas de categorización de información en la consolidación de la
+World Wide Web. Ahí mencionaba algunas características que hacían
+difícil la clasificación de información digital: dominios grandes de
+información con categorías informales, entidades inestables, no
+restringidas y sin límites claros. El problema puede parecernos familiar
+y parte de sus respuestas pueden sernos de utilidad. Algunas propuestas
+de solución están en las herramientas digitales que utilizamos. En la
+digitalidad, un ítem puede estar en un lugar y otro a la vez, tratarse
+acerca de A y también sobre B, puede relacionarse con X y también con Y.
+Las restricciones físicas no limitan nuestra organización. Para esto
+contamos con por lo menos tres estrategias: *categorías, tags y links*.
+En un primer momento podemos hacer una categorización arbitraria de
+nuestra información, ordenar por temática, usar la guía Murdock o los
+[Johnny.Decimals](https://johnnydecimal.com/). Este primer filtro solo
+define el lugar digital que ocuparán nuestros archivos, pero que después
+podemos modificar. Las ventajas de la organización digital vienen con
+las otras dos estrategias. Los *vínculos* conectan entre sí los archivos
+que están en distintas carpetas o proyectos (como lo que veíamos sobre
+el sistema zettelkasten). Dentro de una nota podemos conectar con memos,
+reseñas, a una foto, carpeta, a un PDF, a un párrafo u oración
+específica. Su funcionamiento puede ser tan especializado como el
+software que utilices lo permita. Por otro lado, las *etiquetas* son una
+especie de metadatos que describen de qué se tratan nuestros archivos:
+su formato, el tipo de información, palabras clave, lugar, y demás
+especificaciones que generalmente se marcan con hashtags. Las categorías
+son el librero necesario para almacenar tus archivos, los vínculos
+conectan directamente información, mientras que las etiquetas la filtran
+y seleccionan. Estas tres estrategias son más que suficientes para
+organizar tu información digital de forma libre y creativa. La mayoría
+de los programas de notas y de gestión de conocimiento soportan estos
+tres niveles de organización; también gran parte del software de
+análisis de datos cualitativos se fundamenta en estas estrategias. La
+tarea es hacer que funcione para ti.
+
+## Consejos de software
+
+El software que recomendé para el manejo de notas puede ser más que
+suficiente para manejar información de forma adecuada. En verdad son muy
+útiles y tienen lo necesario para trabajar.[^22] Aun así hay todavía más
+opciones para organizar tu información a través de entornos más
+complejos, aunque no por eso son mejores. Algunas que te podrían
+interesar son: [Trilium](https://github.com/zadam/trilium), una base de
+conocimiento personal con organización multi-jerárquica, software libre
+y abierto; [Foam](https://foambubble.github.io/foam/), una versión libre
+de Roam Research basado en Visual Studio Code;
+[Obsidian](https://obsidian.md/), un entorno de conocimiento local de
+sintaxis Markdown con plugins y API abierta;
+[TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki), un cuaderno digital
+no-lineal para capturar y organizar información en wikis personales;
+[Zettlr](https://www.zettlr.com/), un editor Markdown preparado para el
+sistema zettelkasten e integración con gestores de referencias. Otras
+opciones son utilizar entornos de desarrollo integrado como
+[Atom](http://atom.io/) o el potente, pero complicado
+[Org-mode](https://orgmode.org/) para Emacs, entre otras. Las
+características que ofrecen estas herramientas son más especializadas y
+particulares, por lo que implican cierta curva de aprendizaje para su
+uso. Puede ser un objetivo a mediano plazo conocer sobre ellos para
+después integrarlos a tu proceso de trabajo. Ten en cuenta que las
+migraciones de software son un dolor de cabeza, es mejor trabajar en un
+entorno estable para ti y para tu trabajo.
+
+# Sistematización
+
+Después de haber pasado por los consejos de este capítulo, seguramente
+habrás notado que muchas cosas ya las hacías por puro sentido común,
+otras seguramente puedes mejorarlas y un par podrías integrarlas. Ser
+conscientes de nuestro proceso de trabajo nos hace críticos sobre los
+caminos del conocimiento y nos hace reconocer los distintos momentos de
+nuestra labor---que suelen ser confusos---para detenernos y pensar qué
+hacemos y qué podríamos hacer: ¿Debería anotar esto? ¿Hago una reseña o
+una memo? ¿Con qué se conecta esta idea? ¿Esto es organización o es un
+poco de análisis?
+
+Una pregunta que puede ser inmanente al trabajo antropológico (y supongo
+que a la investigación social en general) es *cómo dar sentido al
+conjunto de datos fragmentados que recogemos y generamos.* En mi
+opinión, parte de esta pregunta se refiere a la
+[*organización*](#organización) y otra puede vincularse al *análisis* de
+los datos. Qué es el análisis y cómo debería realizarse es una discusión
+aparte (Holbraad et al., 2018). Aquí me concentro en un terreno
+intermedio entre ambos. Espero brindar algunos consejos que puedan ser
+útiles sin importar las bases metodológicas o teóricas de las que se
+partan,[^23] y por ello, como en los apartados anteriores, prefiero dar
+recomendaciones técnicas y operativas para que tú las adaptes como mejor
+te parezca.
+
+## Vaciado de información
+
+Después del trabajo de campo terminamos con demasiado por analizar.
+Diarios de campo, notas, fotos, audios, entrevistas y demás. Aunque el
+vaciado de información podría parecer un momento puramente técnico, en
+realidad puede formar parte de las etapas de análisis (si se trataran de
+dos momentos distintos el tiempo perdido sería demasiado). Aunque parte
+importante del cuerpo de datos obtenido se encuentra en estado análogo
+en libretas u objetos, seguramente tarde o temprano la mayoría de estos
+pasarán a ser digitales. Algunas recomendaciones que te pueden servir
+son:
+
+-   Escanear secciones importantes de tu diario, así como dibujos,
+    croquis o diagramas.
+
+-   No solo transcribir, también realizar síntesis, explicaciones e
+    interpretaciones.
+
+-   Respaldar tu información digital para recuperarla ante cualquier
+    imprevisto.
+
+-   Hacer notas y memos analíticas sobre ideas que van surgiendo en el
+    proceso.
+
+-   Ordenar por temáticas generales, asignar categorías y subcategorías.
+
+-   Etiquetar contenido con tags y vincular con links. No solo texto,
+    también fotos, videos y audio.
+
+El proceso de vaciado de la información es un momento para comprometerse
+con el material, hacer reflexiones, criticar y cruzar tus fuentes, y
+sobre todo, consolidar el análisis que has llevado haciendo desde que
+empezaste a leer artículos y redactar notas.
+
+## Software de análisis cualitativo
+
+Para facilitar el proceso de organización de datos etnográficos podemos
+asistirnos de software de especializado. Aunque pueden parecer
+sofisticados y complejos, en realidad parte de sus instrumentos son
+familiares para este punto del capítulo.
+
+A pesar de que el panorama del CAQDAS suele ser privativo y costoso,
+para fortuna nuestra, en los últimos años se han desarrollado
+iniciativas importantes para el desarrollo de software libre y gratuito
+para el análisis de datos cualitativos(Duckles & Steeves, 2020) entre
+las que destacan algunas como:
+[QualCoder](https://github.com/ccbogel/QualCoder), una aplicación
+ejecutada en Python para análisis de texto, imagen, audio video con
+soporte para numerosos formatos; [Taguette](https://www.taguette.org/),
+herramienta de codificación cualitativa local o en línea con soporte
+para trabajo colaborativo;
+[QCoder](https://github.com/ropenscilabs/qcoder), un paquete ligero de
+codificación cualitativa para R. Usar uno u otro depende de las
+plataformas con las que estés familiarizado, así como el tipo de datos
+que te interese analizar.
+
+## Presentación de datos
+
+Esta área se ha especializado particularmente en los métodos
+cuantitativos y recientemente con el desarrollo de formas de recolección
+y análisis de datos así como la popularización de software
+especializado.[^24] Es un área vasta que atraviesa diseño, programación,
+estadística, teoría y análisis. En antropología puede parecer un poco
+lejano por lo que Alfred Gell (2006) consideraba una tendencia al
+verbalismo en la disciplina. Ahora bien, aunque las gráficas puedan ser
+herramientas de las ciencias con tendencia cuantitativa, esto no quiere
+decir que su aplicación se reduzca a ellas. Cabe decir que la
+antropología siempre ha trabajado con datos cuantitativos.[^25] Incluso
+si fuéramos reacios a cualquier referencia numérica, la visualización de
+datos también puede realizarse por otros medios como diagramas y mapas.
+
+### Gráficas, diagramas y mapas
+
+Estos tres elementos han estado presentes en la disciplina antropológica
+desde sus inicios (Partridge, 2014). Es imposible pensar en las
+monografías clásicas sin un mapa como referencia espacial para
+contextualizar el trabajo, o los diagramas de parentesco tan
+característicos de la disciplina. Parte de los datos con los que
+trabajamos y los que generamos se pueden presentar de formas no
+escritas. Sin embargo, hay que aprender a identificar cuando ciertos
+datos se pueden plasmar de forma clara de forma visual. Con esa
+pretensión vale la pena hacer un repaso de algunas formas de
+representación visual comunes en las ciencias sociales y en la
+antropología que pueden ser de utilidad para presentar, sintetizar o
+analizar los datos de tu trabajo. Antes de continuar, vale aclarar que
+hay que ser cuidadosos con las presentaciones visuales que hagamos. *No
+porque se pueda hacer significa que deba hacerse*. Hay que evitar a toda
+costa el exceso visual que puede ser perjudicial para tu trabajo
+(Candea, 2019).
+
+Tablas: Una tabla bien realizada con datos de suficiente calidad puede
+ser un gráfico en potencia. Una simple gráfica de barras, de líneas o de
+puntos puede representar gráficamente tu argumento. Esto no significa
+que lo tengas que utilizar cada vez que tengas oportunidad. Sólo hay que
+utilizar recursos visuales cuando sea necesario. Puedes distraer la
+atención de tu argumento a algo que puede ser de carácter secundario,
+como los datos complementarios contenidos en una tabla.
+
+Gráficas básicas para datos numéricos: De barras (con categorías
+nominales en X y valores en Y), histograma (similar a las barras, pero
+con variables continuas de intervalo en X), diagrama de dispersión
+(serie de puntos ubicados en coordenadas cartesianas con una variable en
+cada eje), gráfica de líneas (muestran valores cuantitativos durante
+período de tiempo continuo; se usa para mostrar tendencias y analizar
+datos en el tiempo de forma similar al histograma). Para más información
+puedes revisar algunos recursos dedicados a la visualización de
+datos.[^26]
+
+Diagramas de flujo o *flowcharts*: Representación gráfica de un proceso.
+Principalente sirven para representar algoritmos en programación o
+procesos industriales y de ingenieria, sin embargo, su lenguaje visual
+puede extenderse para visualizar fenómenos de todo tipo, incluso para
+explicar teoría antropológica, como lo hizo Alfred Gell (2006) en su
+ensayo sobre el trabajo de Marilyn Strathern.
+
+![Ejemplo realizado con las convenciones de los diagramas de
+flujo](media/image1.png){width="3.103772965879265in"
+height="1.7251181102362205in"}![](media/image2.png){width="2.936926946631671in"
+height="1.6512335958005249in"}
+
+*Fig. 1: Diagramas de flujo y de Gantt realizados con Mermaid.*
+
+Diagrama de Gantt: Muestra las actividades realizadas en distintos
+periodos de tiempo. Se compone de distintas secciones con tareas
+consecutivas y su respectiva duración. Pude ser útil, por ejemplo, para
+visualizar los eventos durante el trabajo de campo.
+
+Dendogramas y diagramas de árbol:
+
+Nubes de palabras: Es una visualización muy común en el análisis de
+texto y de discurso. Aunque es muy popular por su simpleza, en realidad
+no aporta mucha información de análisis. La misma información puede ser
+mejor presentada con un dendograma o similares. Una excepción
+interesante, que puede servir de inspiración, es la visualización que
+ofrece Evans-Pritchard sobre las relaciones ecológicas y su influencia
+en las relaciones sociales de los nuer y sus instituciones. Conjuga la
+visualización de una nube de palabras con la información de una tabla y
+un calendario, con eventos temporales y pequeñas descripciones.
+
+![](media/image3.png){width="5.622641076115485in"
+height="3.736340769903762in"}
+
+*Fig 2: Ilustración adaptada de Evans-Pritchard.* (1977, p. 113)
+
+Diagrama de calor:
+
+Mapas temáticos: Mapas cloropéticos:
+
+### Creación de diagramas
+
+Para hacer diagramas puede servir utilizar algún programa que trabaje
+con vectores (formato SVG) para no afectar la resolución de tu trabajo y
+poderlos editar fácilmente. Inkscape, Illustrator o incluso PowerPoint
+pueden servir para trabajarlos. Existen otro tipo de herramientas
+particulares que pueden ayudarte a construir diagramas sin mucho
+esfuerzo de diseño como
+[Mermaid](https://mermaid-js.github.io/mermaid/#/) o
+[Chart.js](https://www.chartjs.org/). Por medio de ellas se pueden
+realizar gráficas y diagramas a partir de argumentos de texto y muy poco
+código. Brindas los argumentos que quieres incluir en tu gráfica de
+forma escrita y estas herramientas lo traducirán de forma visual en
+bonitos gráficos.[^27]
 
