@@ -703,17 +703,14 @@ puede extenderse para visualizar fenómenos de todo tipo, incluso para
 explicar teoría antropológica, como lo hizo Alfred Gell (2006) en su
 ensayo sobre el trabajo de Marilyn Strathern.
 
-![Ejemplo realizado con las convenciones de los diagramas de
-flujo](media/image1.png){width="3.103772965879265in"
-height="1.7251181102362205in"}![](media/image2.png){width="2.936926946631671in"
-height="1.6512335958005249in"}
-
-*Fig. 1: Diagramas de flujo y de Gantt realizados con Mermaid.*
+![*Fig. 1: Diagrama de flujo realizado con Mermaid*](https://carloslucmat.github.io/images/flujo-mer.jpg)
 
 Diagrama de Gantt: Muestra las actividades realizadas en distintos
 periodos de tiempo. Se compone de distintas secciones con tareas
 consecutivas y su respectiva duración. Pude ser útil, por ejemplo, para
 visualizar los eventos durante el trabajo de campo.
+
+![*Fig. 2: Diagrama de Gantt realizado en Mermaid*](https://carloslucmat.github.io/images/diag-gantt.jpg)
 
 Dendogramas y diagramas de árbol:
 
@@ -727,10 +724,8 @@ en las relaciones sociales de los nuer y sus instituciones. Conjuga la
 visualización de una nube de palabras con la información de una tabla y
 un calendario, con eventos temporales y pequeñas descripciones.
 
-![](media/image3.png){width="5.622641076115485in"
-height="3.736340769903762in"}
+![*Fig. 3: Ilustración adaptada de Evans-Pritchard. (1977, p. 113*](https://carloslucmat.github.io/images/nuer-tabla.png)
 
-*Fig 2: Ilustración adaptada de Evans-Pritchard.* (1977, p. 113)
 
 Diagrama de calor:
 
