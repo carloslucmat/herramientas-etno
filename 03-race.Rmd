@@ -1,6 +1,8 @@
 # Cool tools 
 
-### Software para análisis cualitativo {-}
+Un intento de Awesome List para antropólogues.
+
+**Software para análisis cualitativo**
 
 ![CAQDAS FLOSS](https://carloslucmat.github.io/images/caqdas.png)
 
@@ -8,7 +10,7 @@
 - [QCoder](https://github.com/ropenscilabs/qcoder) - Paquete para la codificación de datos en R. Libre, abierto y gratuito.
 - [Taguette](https://www.taguette.org/) - Software para codificación de datos de texto. Abierto y gratuito con aplicación Web y de escritorio.
 
-### Gestores de bibliotecas personales {-}
+**Gestores de bibliotecas personales**
 
 ![zot-jab-men](https://carloslucmat.github.io/images/refer22.png)
 
@@ -21,7 +23,7 @@
   - [Mendeley](https://www.mendeley.com/download-desktop/) - Gestor bibliográfico y red social académica de Elsevier.
   - [Calibre](https://calibre-ebook.com/) - Un administrador de libros electrónicos.
 
-### Programas para tomar notas {-}
+**Programas para tomar notas**
 
 - [Joplin](https://joplinapp.org/) -  Software libre, de código abierto para tomar notas y tareas pendientes en Markdown para escritorio y celular.
 - [Notion](https://www.notion.so/) - Aplicación todo-en-uno para tomar notas, planear proyectos, crear tableros, calendarios, recordatorios y manejar información.
@@ -32,7 +34,7 @@
 - [Boostnote](https://boostnote.io/) -Espacio de trabajo colaborativo Markdown con herramientas para programadores.
 - [Ghostwriter](https://wereturtle.github.io/ghostwriter/) - Editor Markdown limpio y sin distracciones para Linux y Windows.
 
-### Editores de texto para escribir (y otras cosas) {-}
+**Editores de texto para escribir (y otras cosas)**
 
 - [Atom](http://atom.io/) - Un gran editor de texto extensible para programar, escribir, seguir tus proyectos en GitHub y mucho más.
     - [Atom para el flujo de trabajo académico](https://juancarloscastillo.github.io/jc-castillo/documents/tallerATOM/tallerATOM.html#1) - Presentación de Juan Carlos Castillo para iniciados en Atom.
@@ -44,7 +46,7 @@
 - [Marktext](https://marktext.app/) - Un editor Markdown simple y elegante, centrado en la velocidad y la usabilidad.
 - [Zettlr](https://www.zettlr.com/) - Editor Markdown basado en el sistema Zettelkasten, pensado para académicos y con integración para gestores de referencias.
 
-### Software para la gestión de conocimiento personal {-}
+**Software para la gestión de conocimiento personal**
 
 - _Ver también software para notas y editores de texto_
 - [Artificial Brain Networked notebook app](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709) - Una lista comparativa, colectiva, comentada y con ejemplos de software para la creación de un _segundo cerebro_.
@@ -58,7 +60,7 @@
 - [MindForger](https://www.mindforger.com/#personal) is human mind inspired personal knowledge management tool.
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management) - Una lista seleccionada de artículos, personas, aplicaciones, bibliotecas de software y proyectos relacionados con la gestión del conocimiento. ^be20dd
 
-### Markdown {-}
+**Markdown**
 
 - [Markdown Tutorial](https://www.markdowntutorial.com/) - Un tutorial interactivo para aprender Markdown en pocos minutos.
 - [Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown) - Una lección de Sarah Simpkin sobre Markdown académico.
@@ -66,7 +68,7 @@
 - [Awesome Markdown](https://github.com/mundimark/awesome-markdown#commonmark) - Una lista seleccionada sobre Markdown.
 - [Markdown for Scientific Publications](https://github.com/JensErat/scientific-markdown/#readme)
 
-### Pandoc {-}
+**Pandoc**
 
 - [Pandoc](https://pandoc.org/) - La navaja suiza para la conversión de documentos creada por el filósofo John MacFarlane.
 - [Pandoc Starter](https://github.com/jez/pandoc-starter) - Un repositorio con varios archivos para comenzar con Pandoc.
@@ -77,7 +79,7 @@
 - [Plantillas pandoc](https://github.com/jgm/pandoc/wiki/User-contributed-templates) aportadas por usuarios.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Una plantilla académica sencilla de pandoc LaTeX.
 
-### Escritura académica con Markdown + Pandoc {-}
+**Escritura académica con Markdown + Pandoc**
 
 ![A plain-text document toolchain en el libro de Kieran Healey.](https://plain-text.co/figures/workflow-wide.png)
 
@@ -92,7 +94,7 @@
 - [Template for writing a PhD thesis in Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean organization of files to provide a framework for writing a PhD thesis in mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.
 - [thesisdown](https://github.com/ismayc/thesisdown) - Un proyecto inspirado en bookdown para hacer tu tesis con R Markdown. Incluye plantillas de distintas Universidades.
 
-### Ilustración y visualización {-}
+**Ilustración y visualización**
 
 - [Inkscape](https://inkscape.org/) Programa de vectores gráficos para diseño y arte digital.
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Sencilla herramienta de código para diagramar y graficar por medio de texto.
@@ -101,12 +103,12 @@
 - [graphviz](https://graphviz.org/) - Visualization software for graphs and networks which uses a domain-specific DOT language.
 - [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
 
-### Git y GitHub {-}
+**Git y GitHub**
 
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Una serie de videos introductorios para no-programadores.
 - [Running a collaborative blog: A glossary for GitHub & Jekyll](https://scholarslab.lib.virginia.edu/blog/github-jekyll-glossary/) - Un glosario de términos frecuentes en GitHub y Jekyll.
 
-### Recursos {-}
+**Recursos**
 
 - [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) - Pequeña guía de Kieran Healy sobre el flujo de trabajo académico en texto plano para ciencias sociales. Contenido sobre R Markdown, editores de texto y hasta una una introducción a Emacs.
 - [The Programming Historian](https://programminghistorian.org/en/lessons/) - Revista de historia y humanidades digitales con lecciones como:
@@ -121,7 +123,7 @@
     - [Harvard Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources).
   - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
 
-### Videos {-}
+**Videos**
 
 - Los videos de Nicholas Cifuentes-Goodbody [sobre Markdown](https://youtu.be/hpAJMSS8pvs), [Pandoc](https://youtu.be/N31E_NZYQQY) o sobre [Zotero](https://www.youtube.com/playlist?list=PLXt-tu7G1H3vlRXLmGyOzeAp7ZKDK0pty), [Bib(La)TeX](https://youtu.be/GAVXVkcpbG0), entre otros.
 - Algunos flujos de trabajo con Zotero y otras herramientas como el de [explauramay](https://www.youtube.com/watch?v=RU9lzlBnGdA) o el de [Robert Karl para historiadores](https://www.youtube.com/watch?v=sZP6X7EIN6g).
@@ -129,7 +131,7 @@
 - [How to create a bookdown book in 5 minutes](https://youtu.be/m5D-yoH416Y).
 - Brian Jenks sobre [OrcID, Zotero, Mendeley y más](https://youtu.be/Mz21UNoLNu4).
 
-### Awesome awesome lists {-}
+**Awesome awesome lists**
 
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Para la escritura académica.
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme) - Herramientas para la investigación.
@@ -141,6 +143,126 @@
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
-
-
+    
 # Referencias
+
+Ahrens, S. (2017). How to Take Smart Notes: One Simple Technique to
+Boost Writing, Learning and Thinking - for Students, Academics and
+Nonfiction Book Writers. Createspace Independent Publishing Platform.
+
+Barbosa de Almeida, M. W. (2014). Diagrams. HAU: Journal of Ethnographic
+Theory, 4(1), 291--294. https://doi.org/10.14318/hau4.1.014
+
+Blair, A. (2010). Too much to know: Managing scholarly information
+before the modern age. Yale University Press.
+
+Candea, M. (2019). On Visual Coherence and Visual Excess. Social
+Analysis, 63(4), 63--88. https://doi.org/10.3167/sa.2019.630404
+
+Cevolini, A. (2016). Forgetting Machines: Knowledge Management Evolution
+in Early Modern Europe. Brill.
+
+Corbin, J. M., & Strauss, A. L. (2015). Memos and Diagrams. En Basics of
+qualitative research: Techniques and procedures for developing grounded
+theory (pp. 117--141). SAGE.
+
+Duckles, B., & Steeves, V. (2020, febrero 25). Free Qualitative Data
+Analysis with Taguette and qcoder! IASSIST webinar.
+https://youtu.be/OIB_xLlM8Fw
+
+Duda, M., Hamerski, W., Hoffmann, K., Kemp-Welch, K., Kuligowski, W.,
+Radomska, M., Samalavičius, A., Wasilewski, M., Marzec, L., Bartelik,
+M., Krajewski, M., Mizerkiewicz, T., Wieczorkiewicz, A., Jakubowska, A.,
+Haenze, S., & Popek, I. (2017). Personal Archive. Czas Kultury /
+English, 32(2), 127.
+
+Englemann, L., Humphrey, C., & Lynteris, C. (2019). Introduction:
+Diagrams beyond Mere Tools. Social Analysis, 63(4), 1--19.
+https://doi.org/10.3167/sa.2019.630401
+
+Evans-Pritchard, E. E. (1977). Los nuer. Anagrama.
+
+Frank, M., & Hartgerink, C. (2017, julio 31). RMarkdown for writing
+reproducible scientific papers.
+https://libscie.github.io/rmarkdown-workshop/handout.html
+
+Gell, A. (2006). Strathernograms, or, the Semiotics of Mixed Metaphors.
+En The art of anthropology: Essays and diagrams (pp. 29--75). Berg.
+
+Gruber, J. (2004, diciembre 17). Markdown [Blog]. Daring Fireball.
+https://daringfireball.net/projects/markdown/
+
+Healy, K. (2019, octubre 4). The Plain Person's Guide to Plain Text
+Social Science [Libro Digital]. Plain-Text.Co. https://plain-text.co/
+
+Holbraad, M., Green, S., Jiménez, A. C., Das, V., Bird-David, N., Kohn,
+E., Hage, G., Bear, L., Knox, H., & Kapferer, B. (2018). What Is
+Analysis?: Between Theory, Ethnography, and Method. Social Analysis,
+62(1), 1--30. https://doi.org/10.3167/sa.2018.620103
+
+Kil, A. (2017). Archive/Apparatus of the Scholar. On the Index Cards of
+Stanisław Pietraszko. CzasKultury, 32(2), 56--64.
+
+Leach, E. R. (1982). Rethinking anthropology. The Athlone Press;
+Humanities Press.
+
+Lin, J. (2020, junio 19). EP02---Zettelkasten Method [KyotoU Research Methodology Group] [YouTube].
+https://www.youtube.com/watch?v=mtvVjNgDHrg&t
+
+Luhmann, N. (1981). Kommunikation mit Zettelkästen. En H. Baier, H. M.
+Kepplinger, & K. Reumann (Eds.), Öffentliche Meinung und sozialer Wandel
+/ Public Opinion and Social Change (pp. 222--228). VS Verlag für
+Sozialwissenschaften. https://doi.org/10.1007/978-3-322-87749-9_19
+
+McGranahan, C. (Ed.). (2020). Writing anthropology: Essays on craft and
+commitment. Duke University Press.
+
+Mills, C. W. (1980). On intellectual craftsmanship (1952). Society,
+17(2), 63--70. https://doi.org/10.1007/BF02700062
+
+Oths, K. (2016). Cultural Anthropology: Principles and Practices of
+Digital Data Management. Bringing Digital Data Management Training into
+Methods Courses for Anthropology, Arlington, American Anthropological
+Association. http://www.americananthro.org/methods
+
+Pacheco-Vega, R. (2016, julio 28). Writing effective memorandums
+[Blog].
+http://www.raulpacheco.org/2016/07/writing-effective-memorandums/
+
+Pacheco-Vega, R. (2017a, mayo 3). Writing synthetic notes of journal
+articles and book chapters [Blog].
+http://www.raulpacheco.org/2017/05/writing-synthetic-notes-of-journal-articles-and-book-chapters/
+
+Pacheco-Vega, R. (2017b, diciembre 5). Carving time to read: The AIC and
+Conceptual Synthesis Excel Dump combination method [Blog].
+http://www.raulpacheco.org/2017/12/carving-time-to-read-the-aic-and-conceptual-synthesis-excel-dump-combination-method/
+
+Pacheco-Vega, R. (2020, noviembre 10). How to Take Smart Notes: One
+Simple Technique to Boost Writing, Learning and Thinking -- for
+Students, Academics and Nonfiction Book Writers (my reading notes)
+[Blog].
+http://www.raulpacheco.org/2020/11/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-for-students-academics-and-nonfiction-book-writers-my-reading-notes/
+
+Pandian, A. (2019). A possible anthropology: Methods for uneasy times.
+Duke University Press.
+
+Partridge, T. (2014, abril 17). Diagrams in Anthropology: Lines and
+Interactions. Life Off the Grid.
+https://anthropologyoffthegrid.wordpress.com/ethnograms/diagrams-in-anthropology/
+
+Schmidt, J. F. K. (2016). Niklas Luhmann's Card Index: Thinking Tool,
+Communication Partner, Publication Machine. En A. Cevolini (Ed.),
+Forgetting Machines: Knowledge Management Evolution in Early Modern
+Europe (pp. 289--311). Brill. https://doi.org/10.1163/9789004325258
+
+Shirky, C. (2005). Ontology is Overrated: Categories, Links, and Tags
+[Blog]. http://archive.fo/a8Uyp
+
+Tollander de Balsch, J. (2018, enero 25). Scientific Writing with
+Markdown [Blog].
+https://jaantollander.com/post/scientific-writing-with-markdown/
+
+Zhang, T. (2020, enero 28). A digital approach to Luhmann's Zettelkasten
+(Slip Box) [Blog]. https://tevinzhang.com/digital-zettelkasten
+
+
